@@ -1,10 +1,10 @@
 <template>
-  <router-view />
+  <div>This is the Error 404 Page</div>
 </template>
 
 <script>
 export default {
-  name: "App",
+  name: "Error404",
 };
 </script>
 
